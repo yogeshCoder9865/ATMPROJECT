@@ -304,7 +304,7 @@ class Bank  extends DB {
         }
     }
 
-     
+    
     void ViewAllTransactions(){
 
         if(head == null){
@@ -401,10 +401,10 @@ public class TervBank {
 
         /*
         VALID    CARDS AND PIN:
-        1      123    -    123
-        2      456    -    456
-        3      789    -    789
-        4      1011   -   1011
+        1      1234    -    1234
+        2      5678    -    5678  
+        3      4321    -    4321
+        4      8765   -     8765
             
         */
   
